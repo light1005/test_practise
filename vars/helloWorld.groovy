@@ -1,4 +1,4 @@
-def call () {
-  echo " Welcome to GIt hub"
+def call (name) {
+  echo " Welcome to GIt hub ${name}"
 }
  
